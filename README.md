@@ -33,3 +33,6 @@ Start development:
 ```
 
 Every time you create a new folder/file in ```src/client``` or ```src/server``` you must restart the ```npm run watch``` command.
+
+For any support reach me out on Discord:
+@notraisen
